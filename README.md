@@ -25,3 +25,5 @@ pip install yt-dlp
 ```
 
 ## Screenshots
+<img width="702" height="552" alt="image" src="https://github.com/user-attachments/assets/6c3e45f5-86b0-44f2-b2b4-e1993bd70267" />
+
